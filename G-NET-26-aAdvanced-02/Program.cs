@@ -50,15 +50,6 @@ namespace G_NET_26_aAdvanced_02
             Console.WriteLine();
             PrintResults("--- Clothing Under $100 ---", clothingUnder100);
         }
-
-        private static void PrintResults(string title, List<Product> products)
-        {
-            Console.WriteLine(title);
-            foreach (var p in products)
-            {
-                Console.WriteLine($"{p.Name} : ${p.Price} (Stock: {p.Stock})");
-            }
-        }
     }
 }
 
