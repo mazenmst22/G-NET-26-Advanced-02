@@ -56,7 +56,7 @@ namespace G_NET_26_aAdvanced_02
             Console.WriteLine(title);
             foreach (var p in products)
             {
-                Console.WriteLine($"{p.Name} - ${p.Price} (Stock: {p.Stock})");
+                Console.WriteLine($"{p.Name} : ${p.Price} (Stock: {p.Stock})");
             }
         }
     }
