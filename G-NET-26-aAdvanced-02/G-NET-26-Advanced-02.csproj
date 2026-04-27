@@ -6,11 +6,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{02ABEFEE-F6D9-47B8-AA03-2F1587303F35}</ProjectGuid>
     <OutputType>Exe</OutputType>
-	  <RootNamespace>G_NET_26_aAdvanced_02</RootNamespace>
-	  <AssemblyName>G-NET-26-aAdvanced-02</AssemblyName>
-	  <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
-	  <LangVersion>latest</LangVersion>
-	  <FileAlignment>512</FileAlignment>
+    <RootNamespace>G_NET_26_aAdvanced_02</RootNamespace>
+    <AssemblyName>G-NET-26-aAdvanced-02</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <LangVersion>latest</LangVersion>
+    <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
